@@ -1,6 +1,8 @@
 # OsLab_Exercises
 
-ECE Ntua OsLab 
+ECE Ntua OsLab
+
+Team Members: Stefanis Panagiotis, Tomkou Despina 
 
 Operating System Labs, Y Flow
 2022-2023
